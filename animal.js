@@ -16,8 +16,8 @@ class Cachorro extends Animal {
         super(t, n, i);
         this.raça = r;
     }
-    comunicar() {
-        console.log("Olá sou da classe filha, classe Cachorro");
+    latir() {
+        super.comunicar();
     }
 }
 class Gente extends Animal {
@@ -30,6 +30,6 @@ class Gente extends Animal {
     }
 }
 let c1 = new Cachorro("cachorro", "bob", 2, "poodle");
-c1.comunicar();
+c1.latir();
 let g1 = new Gente("Humano", "Marley", 25, "Negro");
 g1.comunicar();
