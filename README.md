@@ -17,8 +17,8 @@ setters (para poder alterar)
 
 Modificadores de acesso mais comuns são:
 
-public: todo mundo pode alterar
-protected: somente pode ser usado pela sua classe e subclasses
-private: somente a clase que recebe esse método pode usar dentro dela
+public: todo mundo pode alterar <br>
+protected: somente pode ser usado pela sua classe e subclasses <br>
+private: somente a clase que recebe esse método pode usar dentro dela <br>
 
 ================================================
