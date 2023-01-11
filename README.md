@@ -1,4 +1,4 @@
-# POO-TypeScript
+# POO-TypeScript Como instalar e rodar o typescript
 
 npm install -g typescript
 
