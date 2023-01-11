@@ -10,7 +10,7 @@ tsc --init
 
 tsc --watch
 
-================================================
+=================================================
 
 getters (para obter os valores)
 setters (para poder alterar)
@@ -21,4 +21,4 @@ public: todo mundo pode alterar <br>
 protected: somente pode ser usado pela sua classe e subclasses <br>
 private: somente a clase que recebe esse método pode usar dentro dela <br>
 
-================================================
+=================================================
