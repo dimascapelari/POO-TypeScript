@@ -1,4 +1,5 @@
 "use strict";
+// Curso POO Typescript Aula 03 - Encapsulamento
 class Carro {
     constructor(c, a, v) {
         this.cor = c;

@@ -1,4 +1,5 @@
 "use strict";
+// Curso POO Typescript Aula 02 - Herança e Polimorfismo
 Object.defineProperty(exports, "__esModule", { value: true });
 class Animal {
     constructor(t, n, i) {

@@ -1,4 +1,5 @@
 "use strict";
+// Curso POO Typescript Aula 04 - Classes Abstratas e Interfaces
 Object.defineProperty(exports, "__esModule", { value: true });
 class Jerry {
     constructor(n) {

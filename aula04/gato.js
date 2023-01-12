@@ -1,4 +1,5 @@
 "use strict";
+// Curso POO Typescript Aula 04 - Classes Abstratas e Interfaces
 class Gato {
     constructor(n, c) {
         this.nome = n;

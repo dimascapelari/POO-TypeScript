@@ -1,4 +1,5 @@
 "use strict";
+// Curso POO Typescript Aula 01 - Classes e Objetos
 Object.defineProperty(exports, "__esModule", { value: true });
 class Pessoa {
     constructor(n, i) {
