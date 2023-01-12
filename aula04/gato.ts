@@ -1,3 +1,5 @@
+// Curso POO Typescript Aula 04 - Classes Abstratas e Interfaces
+
 abstract class Gato {
   nome: string;
   cor: string;

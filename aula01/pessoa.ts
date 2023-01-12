@@ -1,3 +1,5 @@
+// Curso POO Typescript Aula 01 - Classes e Objetos
+
 export default class Pessoa {
   constructor(n: string, i: number) {
     this.nome = n;

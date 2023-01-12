@@ -1,3 +1,5 @@
+// Curso POO Typescript Aula 03 - Encapsulamento
+
 class Carro {
   private cor: string;
   private ano: number;

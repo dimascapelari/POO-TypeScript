@@ -1,3 +1,5 @@
+// Curso POO Typescript Aula 02 - Herança e Polimorfismo
+
 export default class Animal {
   tipo: string;
   nome: string;

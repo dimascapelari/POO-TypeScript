@@ -1,3 +1,5 @@
+// Curso POO Typescript Aula 04 - Classes Abstratas e Interfaces
+
 export default interface Rato {
   nome: string;
   idade?: number | string;
