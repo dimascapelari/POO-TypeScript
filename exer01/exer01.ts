@@ -1,4 +1,4 @@
-class Moto {
+export default class Moto {
   cor: string;
   potencia: number;
 
